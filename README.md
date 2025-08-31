@@ -7,7 +7,9 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to build innovative solutions and learn new technologies. This is where I showcase my projects and contributions.
 
-
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=googledrive" alt="Download CV">
+</a>
 
 ---
 
