@@ -7,9 +7,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to build innovative solutions and learn new technologies. This is where I showcase my projects and contributions.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Jan+👋;Full-Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</p>
+
 
 ---
 
