@@ -1,4 +1,4 @@
-<!--![mypic2](https://github.com/RimaBzch/RimaBzch/assets/86674923/7237a9e9-4b53-48db-94c8-09097f652570)-->
+![mypic2](https://github.com/RimaBzch/RimaBzch/assets/86674923/7237a9e9-4b53-48db-94c8-09097f652570)
 
 
 <h1 align="center">Hi 👋, I'm jannat !</h1>
