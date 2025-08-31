@@ -1,11 +1,23 @@
-# Hi there, I'm Jan! 👋
+![mypic2](https://github.com/RimaBzch/RimaBzch/assets/86674923/7237a9e9-4b53-48db-94c8-09097f652570)
 
-[![Website](https://img.shields.io/badge/Website-YourLink.com-blue?style=flat&logo=google-chrome)](https://your-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-informational?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-![GitHub followers](https://img.shields.io/github/followers/jan-natt?label=Follow&style=social)
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to build innovative solutions and learn new technologies. This is where I showcase my projects and contributions.
+<h1 align="center">Hi 👋, I'm jannat !</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A Passionate Software Engineering; Student from Tunisia %F0%9F%92%9C %F0%9F%92%9C %F0%9F%92%9C %F0%9F%92%9C %F0%9F%92%9C;" alt="Typing SVG">
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rimabzch&label=Profile%20views&color=0e75b6&style=flat" alt="rimabzch" /> </p>
+
+- 🌱 I’m currently learning **Laravel**
+
+- 📫 How to reach me **shilu8781@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rim bziouich" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rima24" height="30" width="40" /></a>
+</p>
 
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=googledrive" alt="Download CV">
