@@ -71,7 +71,22 @@
 
 ---
 
-### 📝My project
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+
+<br>
+<h3>🌐 Live Projects</h3>
+
+| Project          | Description                     | URL                                             |
+|---------------- -|---------------------------------|-------------------------------------------------|
+| 💼 Portfolio     | Portfolio Website               |                   |
+| 🛒 agriculter    | Ecommerce system  (PHP & MySQL) | <a href="#" target="_blank" rel="noopener noreferrer">agrichain</a> |
 
 
 - 
