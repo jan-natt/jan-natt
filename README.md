@@ -81,12 +81,7 @@
 
 
 <br>
-<h3>🌐 Live Projects</h3>
 
-| Project          | Description                     | URL                                             |
-|---------------- -|---------------------------------|-------------------------------------------------|
-| 💼 Portfolio     | Portfolio Website               |                   |
-| 🛒 agriculter    | Ecommerce system  (PHP & MySQL) | <a href="#" target="_blank" rel="noopener noreferrer">agrichain</a> |
 
 
 - 
