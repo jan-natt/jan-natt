@@ -82,6 +82,18 @@
 
 <br>
 
+### 🌐 Live Projects
+
+| Project         | Description                     | URL                                       |
+|-----------------|---------------------------------|------------------------------------------|
+| 🚚 agri chain     |  agriculter supplychain     | [agrichain.knifeerror.xyz](https://agrichain.knifeerror.xyz) |
+| law firm   | law firm                | [wordpress.knifeerror.xyz](https://wordpress.knifeerror.xyz) |
+| 🌟 Portfolio    | Personal portfolio website      | [jannat.knifeerror.xyz](https://jannat.knifeerror.xyz)     |
+| 🌦️ Weather App  | Real-time weather application  | [weather.knifeerror.xyz](https://weather.knifeerror.xyz) |
+| 📚 trade      | trading website | [tradex.knifeerror.xyz](https://tradex.knifeerror.xyz) |
+| 📁 matrimoni | matromonial website             | [nikha.knifeerror.xyz](https://nikha.knifeerror.xyz) |
+
+
 
 
 - 
